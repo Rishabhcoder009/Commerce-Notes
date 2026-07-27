@@ -34,7 +34,7 @@ const notesData = [
             { name: "Chapter 3: PUBLIC, PRIVATE AND GLOBAL ENTERPRISES", pdf: "pdf/business-studies/3.pdf" },
             { name: "Chapter 4: BUSINESS SERVICES", pdf: "pdf/business-studies/4.pdf" },
             { name: "Chapter 5: EMERGING MODES OF BUSINESS", pdf: "pdf/business-studies/5.pdf" },
-            { name: "Chapter 6: SOCIAL RESPONSIBILITY OF BUSINESSANDBUSINESS ETHICS", pdf: "pdf/business-studies/6.pdf" },
+            { name: "Chapter 6: SOCIAL RESPONSIBILITY OF BUSINESS AND BUSINESS ETHICS", pdf: "pdf/business-studies/6.pdf" },
             { name: "Chapter 7: SOURCES OF BUSINESS FINANCE", pdf: "pdf/business-studies/7.pdf" }
         ]
     },
