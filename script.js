@@ -38,7 +38,7 @@ const notesData = [
             { name: "Chapter 7: SOURCES OF BUSINESS FINANCE", pdf: "pdf/business-studies/7.pdf" },
             { name: "Chapter 8: SMALL BUSINESS AND ENTERPRISES", pdf: "pdf/business-studies/8.pdf" },
             { name: "Chapter 9: INTERNAL TRADE", pdf: "pdf/business-studies/9.pdf" },
-            { name: "Chapter 10: INTERNATIONAL BUSINESS", pdf: "pdf/business-studies/10.pdf" },
+            { name: "Chapter 10: INTERNATIONAL BUSINESS", pdf: "pdf/business-studies/10.pdf" }
            
         ]
     },
