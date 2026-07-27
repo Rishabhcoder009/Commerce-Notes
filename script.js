@@ -29,13 +29,13 @@ const notesData = [
         subject: "Business Studies",
         icon: "💼",
         chapters: [
-            { name: "Chapter 1: Business, Trade and Commerce", pdf: "pdf/business-studies/bs-ch1.pdf" },
-            { name: "Chapter 2: Business Environment", pdf: "pdf/business-studies/bs-ch2.pdf" },
-            { name: "Chapter 3: Principles of Management", pdf: "pdf/business-studies/bs-ch3.pdf" },
-            { name: "Chapter 4: Financial Management", pdf: "pdf/business-studies/bs-ch4.pdf" },
-            { name: "Chapter 5: Marketing Management", pdf: "pdf/business-studies/bs-ch5.pdf" },
-            { name: "Chapter 6: Planning", pdf: "pdf/business-studies/bs-ch6.pdf" },
-            { name: "Chapter 7: Organising", pdf: "pdf/business-studies/bs-ch7.pdf" }
+            { name: "Chapter 1: NATURE AND PURPOSE OF BUSINESS", pdf: "pdf/business-studies/1.pdf" },
+            { name: "Chapter 2: FORMS OF BUSINESS ORGANISATION", pdf: "pdf/business-studies/2.pdf" },
+            { name: "Chapter 3: PUBLIC, PRIVATE AND GLOBAL ENTERPRISES", pdf: "pdf/business-studies/3.pdf" },
+            { name: "Chapter 4: BUSINESS SERVICES", pdf: "pdf/business-studies/4.pdf" },
+            { name: "Chapter 5: EMERGING MODES OF BUSINESS", pdf: "pdf/business-studies/5.pdf" },
+            { name: "Chapter 6: SOCIAL RESPONSIBILITY OF BUSINESSANDBUSINESS ETHICS", pdf: "pdf/business-studies/6.pdf" },
+            { name: "Chapter 7: SOURCES OF BUSINESS FINANCE", pdf: "pdf/business-studies/7.pdf" }
         ]
     },
     {
